@@ -1,6 +1,6 @@
 // 移动至项目单列时，显示打开项目
  var projects={
- 	projectList : $(".project-list li"),
+ 	projectList : $(".project-list .project-item"),
     // projectItem
  }
 
@@ -15,7 +15,7 @@
 	 		"top":"50%",
 	 		"left":"50%",
 	 		"font-size":"20px",
-	 		"color":"orange",
+	 		"color":"red",
 	 		"transform": "translate(-50%,-50%)"
 	 	});
 	 	$(ele).append($(span));

@@ -401,6 +401,7 @@
     margin: 0 30px 36px;
     background-size: 100% 100%;
     position: relative;
+/*    transform: translate(50% 50%);*/
 }
 .project-list li a{
 	background: rgba(10,10,10,.2);
