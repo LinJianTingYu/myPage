@@ -5,5 +5,5 @@ var jQuery = {
 }
 
 var config = {
-	test: "haha"
+	test: "18208185403"
 }
