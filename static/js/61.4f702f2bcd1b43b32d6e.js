@@ -1,0 +1,2 @@
+webpackJsonp([61],{"8zyv":function(e,i,n){"use strict";Object.defineProperty(i,"__esModule",{value:!0});i.default=[{id:"0",icon:"fa fa-microchip",label:"邻区规划管理",submenu:[{id:"a1",name:"neiplaninput",label:"解析数据",icon:"el-icon-view"},{id:"a2",name:"neiplandata",label:"数据呈现",icon:"el-icon-view"}]}]}});
+//# sourceMappingURL=61.4f702f2bcd1b43b32d6e.js.map
