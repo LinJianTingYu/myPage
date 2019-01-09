@@ -1,0 +1,2 @@
+webpackJsonp([23],{ib8u:function(e,i,a){"use strict";Object.defineProperty(i,"__esModule",{value:!0});i.default=[{id:"0",icon:"fa fa-microchip",label:"pm项目管理",submenu:[{id:"a1",name:"pminput",label:"解析数据",icon:"el-icon-view"},{id:"a2",name:"pmdata",label:"数据呈现",icon:"el-icon-view"},["分析",[{id:"b1",name:"pmkpi",label:"kpi分析",icon:"el-icon-view"}]]]}]}});
+//# sourceMappingURL=23.fc7954a9a8ba2dfec4b3.js.map

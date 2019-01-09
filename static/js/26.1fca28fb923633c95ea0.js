@@ -1,0 +1,2 @@
+webpackJsonp([26],{"5bXu":function(e,a,i){"use strict";Object.defineProperty(a,"__esModule",{value:!0});a.default=[{id:"0",icon:"fa fa-microchip",label:"工参表管理",submenu:[{id:"a1",name:"cmalinput",label:"解析数据",icon:"el-icon-view"},{id:"a2",name:"cmaldata",label:"数据呈现",icon:"el-icon-view"}]}]}});
+//# sourceMappingURL=26.1fca28fb923633c95ea0.js.map
