@@ -1,2 +1,0 @@
-webpackJsonp([62],{"L4s+":function(e,i,n){"use strict";Object.defineProperty(i,"__esModule",{value:!0});i.default=[{id:"0",icon:"fa fa-microchip",label:"扩容项目管理",submenu:[{id:"a1",name:"expinput",label:"扩容",icon:"el-icon-view"}]}]}});
-//# sourceMappingURL=62.f9c87c6d164329f95432.js.map
