@@ -1,2 +1,0 @@
-webpackJsonp([25],{yRnm:function(e,i,a){"use strict";Object.defineProperty(i,"__esModule",{value:!0});i.default=[{id:"0",icon:"fa fa-microchip",label:"kget项目管理",submenu:[{id:"a1",name:"kgetinput",label:"解析数据",icon:"el-icon-view"},{id:"a2",name:"kgetdata",label:"数据呈现",icon:"el-icon-view"},{id:"a3",name:"kgetcherk",label:"参数核查",icon:"el-icon-view"}]}]}});
-//# sourceMappingURL=25.3137db6af0973d4449df.js.map

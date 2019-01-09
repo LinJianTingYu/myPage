@@ -1,9 +1,7 @@
-console.log('load config.js')
-
-var jQuery = {
-  name: 'hello'
+const config = {
+	baseURL: "https://evening-ocean-46832.herokuapp.com"
 }
 
-var config = {
-	httppath: "http://192.168.31.235:2860/"
-}
+// const config = {
+// 	baseURL: "http://localhost:5001"
+// }

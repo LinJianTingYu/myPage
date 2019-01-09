@@ -1,2 +1,0 @@
-webpackJsonp([38],{b8Dn:function(n,t,e){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c={render:function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"page-body"},[e("h1",[n._v(n._s(n.meg))]),n._v(" "),e("button",{on:{click:function(t){n.btn()}}},[n._v("执行一个方法")])])},staticRenderFns:[]};var r=e("C7Lr")({data:function(){return{meg:"错误在这里"}},methods:{btn:function(){this.meg="这是一个点击按钮"}}},c,!1,function(n){e("wUNc")},null,null);t.default=r.exports},wUNc:function(n,t){}});
-//# sourceMappingURL=38.af236605ad30f099964a.js.map
